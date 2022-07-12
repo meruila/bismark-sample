@@ -18,4 +18,5 @@ docker run quay.io/biocontainers/bismark:0.23.1--hdfd78af_0 bismark_genome_prepa
 ./main.sh [reference_genome_folder] [reads_folder]
 ```
 ## Notes
-To test with GRCh38, use this link and download its assembly from there: https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.40
+To test with GRCh38, use this link and download its assembly from there: https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.40  
+The guide is from Babraham Bioinformatics Training, under *Analysing bisulfite methylation sequencing data*: https://www.bioinformatics.babraham.ac.uk/training.html
